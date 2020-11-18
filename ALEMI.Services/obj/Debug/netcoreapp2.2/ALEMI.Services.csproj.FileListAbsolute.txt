@@ -1,0 +1,14 @@
+C:\Users\SDSD\source\repos\ALEMI.Services\bin\Debug\netcoreapp2.2\ALEMI.Services.deps.json
+C:\Users\SDSD\source\repos\ALEMI.Services\bin\Debug\netcoreapp2.2\ALEMI.Services.dll
+C:\Users\SDSD\source\repos\ALEMI.Services\bin\Debug\netcoreapp2.2\ALEMI.Services.pdb
+C:\Users\SDSD\source\repos\ALEMI.Services\bin\Debug\netcoreapp2.2\ALEMI.Entity.dll
+C:\Users\SDSD\source\repos\ALEMI.Services\bin\Debug\netcoreapp2.2\ALEMI.Persistence.dll
+C:\Users\SDSD\source\repos\ALEMI.Services\bin\Debug\netcoreapp2.2\ALEMI.Entity.pdb
+C:\Users\SDSD\source\repos\ALEMI.Services\bin\Debug\netcoreapp2.2\ALEMI.Persistence.pdb
+C:\Users\SDSD\source\repos\ALEMI.Services\obj\Debug\netcoreapp2.2\ALEMI.Services.csprojAssemblyReference.cache
+C:\Users\SDSD\source\repos\ALEMI.Services\obj\Debug\netcoreapp2.2\ALEMI.Services.AssemblyInfoInputs.cache
+C:\Users\SDSD\source\repos\ALEMI.Services\obj\Debug\netcoreapp2.2\ALEMI.Services.AssemblyInfo.cs
+C:\Users\SDSD\source\repos\ALEMI.Services\obj\Debug\netcoreapp2.2\ALEMI.Services.csproj.CopyComplete
+C:\Users\SDSD\source\repos\ALEMI.Services\obj\Debug\netcoreapp2.2\ALEMI.Services.dll
+C:\Users\SDSD\source\repos\ALEMI.Services\obj\Debug\netcoreapp2.2\ALEMI.Services.pdb
+C:\Users\SDSD\source\repos\ALEMI.Services\obj\Debug\netcoreapp2.2\ALEMI.Services.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+C:\Users\SDSD\source\repos\ALEMI.Entity\bin\Debug\netcoreapp2.2\ALEMI.Entity.deps.json
+C:\Users\SDSD\source\repos\ALEMI.Entity\bin\Debug\netcoreapp2.2\ALEMI.Entity.dll
+C:\Users\SDSD\source\repos\ALEMI.Entity\bin\Debug\netcoreapp2.2\ALEMI.Entity.pdb
+C:\Users\SDSD\source\repos\ALEMI.Entity\obj\Debug\netcoreapp2.2\ALEMI.Entity.AssemblyInfoInputs.cache
+C:\Users\SDSD\source\repos\ALEMI.Entity\obj\Debug\netcoreapp2.2\ALEMI.Entity.AssemblyInfo.cs
+C:\Users\SDSD\source\repos\ALEMI.Entity\obj\Debug\netcoreapp2.2\ALEMI.Entity.csproj.CoreCompileInputs.cache
+C:\Users\SDSD\source\repos\ALEMI.Entity\obj\Debug\netcoreapp2.2\ALEMI.Entity.dll
+C:\Users\SDSD\source\repos\ALEMI.Entity\obj\Debug\netcoreapp2.2\ALEMI.Entity.pdb
+C:\Users\SDSD\source\repos\ALEMI.Entity\obj\Debug\netcoreapp2.2\ALEMI.Entity.csprojAssemblyReference.cache

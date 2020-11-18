@@ -1,0 +1,15 @@
+C:\Users\SDSD\source\repos\ALEMI.Persistence\bin\Debug\netcoreapp2.2\ALEMI.Persistence.deps.json
+C:\Users\SDSD\source\repos\ALEMI.Persistence\bin\Debug\netcoreapp2.2\ALEMI.Persistence.dll
+C:\Users\SDSD\source\repos\ALEMI.Persistence\bin\Debug\netcoreapp2.2\ALEMI.Persistence.pdb
+C:\Users\SDSD\source\repos\ALEMI.Persistence\bin\Debug\netcoreapp2.2\ALEMI.Entity.dll
+C:\Users\SDSD\source\repos\ALEMI.Persistence\bin\Debug\netcoreapp2.2\ALEMI.Entity.pdb
+C:\Users\SDSD\source\repos\ALEMI.Persistence\obj\Debug\netcoreapp2.2\ALEMI.Persistence.csprojAssemblyReference.cache
+C:\Users\SDSD\source\repos\ALEMI.Persistence\obj\Debug\netcoreapp2.2\ALEMI.Persistence.AssemblyInfoInputs.cache
+C:\Users\SDSD\source\repos\ALEMI.Persistence\obj\Debug\netcoreapp2.2\ALEMI.Persistence.AssemblyInfo.cs
+C:\Users\SDSD\source\repos\ALEMI.Persistence\obj\Debug\netcoreapp2.2\ALEMI.Persistence.csproj.CopyComplete
+C:\Users\SDSD\source\repos\ALEMI.Persistence\obj\Debug\netcoreapp2.2\ALEMI.Persistence.dll
+C:\Users\SDSD\source\repos\ALEMI.Persistence\obj\Debug\netcoreapp2.2\ALEMI.Persistence.pdb
+C:\Users\SDSD\source\repos\ALEMI.Persistence\bin\Debug\netcoreapp2.2\ALEMI.Persistence.runtimeconfig.json
+C:\Users\SDSD\source\repos\ALEMI.Persistence\bin\Debug\netcoreapp2.2\ALEMI.Persistence.runtimeconfig.dev.json
+C:\Users\SDSD\source\repos\ALEMI.Persistence\obj\Debug\netcoreapp2.2\ALEMI.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\SDSD\source\repos\ALEMI.Persistence\obj\Debug\netcoreapp2.2\ALEMI.Persistence.genruntimeconfig.cache
